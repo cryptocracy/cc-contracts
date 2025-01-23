@@ -1,5 +1,6 @@
 # CryptoCash
-![cryptocash-logo-256](https://github.com/cryptocracy/CryptoCash/assets/5354826/582b9bd0-82d4-4f1b-845a-3b5dd1824fa6)
+
+![CC](https://github.com/user-attachments/assets/52ae658a-830e-4c21-9d88-61ccd2a0932c)
 
 CryptoCash (CC) is a PoX-Lite SIP-010 token launched on the Stacks blockchain, enabling a
 unique ecosystem of decentralized yield generation and asset-backed token circulation. This
@@ -12,7 +13,7 @@ system whereby users earn STX yields based on miner contributions.
 - Stackers stacking CryptoCash receives 95% of STX input
 - Foundation Service Fee receives 5% of STX input
 
-![CC per STX_updated](https://github.com/cryptocracy/CryptoCash/assets/5354826/57890970-0439-44b3-b530-03375f949296)
+![How-CC-Works](https://github.com/user-attachments/assets/239ae77e-1a19-44fc-9582-7fa8bf73d4da)
 
 # Docs
 
